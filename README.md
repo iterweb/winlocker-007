@@ -1,5 +1,5 @@
 # WinLocker-007
-![alt tag](https://github.com/HuliGanKO/WinLocker-007/blob/master/Screenshot_1.jpg "007")​
+![alt tag](https://github.com/pro100git/WinLocker-007/blob/master/Screenshot_1.jpg "007")​
 
 #### Зависимости | Requirements
 * python==3.7

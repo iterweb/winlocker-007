@@ -27,8 +27,8 @@ def callback(event):
         k = True
 
 def on_closing():
-    root.attributes("-fullscreen", True)
-    root.attributes('-topmost', 1)
+    root.attributes("-fullscreen", True) # на весь экран
+    root.attributes('-topmost', 1) # поверх всех окон
     root.protocol("WM_DELETE_WINDOW", on_closing)
     root.update()
     root.bind('<Alt-KeyPress-s>', callback) # Сочетание клавиш, вместо Enter (можно изменить)

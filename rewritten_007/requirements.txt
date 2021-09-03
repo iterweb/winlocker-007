@@ -1,2 +1,2 @@
 keyboard==0.13.5
-psutil==5.7.2
+psutil==5.8.0

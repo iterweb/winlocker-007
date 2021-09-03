@@ -1,4 +1,4 @@
-# WinLocker-007
+# WinLocker-007 REWRITTEN
 Rewritten version the WinLocker-007
 
 #### Requirements

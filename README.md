@@ -1,6 +1,6 @@
 # WinLocker-007
-Added rewritten version the [WinLocker-007](https://github.com/pro100git/WinLocker-007/tree/master/rewritten_007)<br><br>
-![alt tag](https://github.com/pro100git/WinLocker-007/blob/master/Screenshot_1.jpg "007")​
+Added rewritten version the [WinLocker-007](https://github.com/iterweb/WinLocker-007/tree/master/rewritten_007)<br><br>
+![alt tag](https://github.com/iterweb/WinLocker-007/blob/master/Screenshot_1.jpg "007")​
 
 #### Зависимости | Requirements
 * python==3.7

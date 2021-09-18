@@ -4,6 +4,9 @@ Rewritten version the WinLocker-007
 #### Requirements
 * ```pip install -r requirements.txt```
 
+#### Donate
+If you want, you can [support](https://destream.net/live/iterweb/donate) me!
+
 #### Block buttons
 * Del
 * Esc
